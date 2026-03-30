@@ -4,4 +4,4 @@ Tenho 22 anos e moro em Goiânia - GO. Sou estudante de Sistemas de Informação
 
 Possuo experiência prática em infraestrutura de TI, incluindo redes, suporte técnico, manutenção de hardware, ERP e automações simples com Python em ambiente empresarial.
 
-Atualmente, estou focado em desenvolvimento FullStack com Java, buscando evoluir continuamente e aplicar tecnologia na resolução de problemas reais.
+Atualmente, estou focado em estudar desenvolvimento FullStack com Java, buscando evoluir continuamente para aplicar tecnologia na resolução de problemas reais.
